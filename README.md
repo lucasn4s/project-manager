@@ -10,6 +10,11 @@ Este é um gerenciador de projetos desenvolvido em Vue 3 com Vite.
 
 ## Executar a aplicação
 
+1. Copie o `.env` da aplicação:
+    ```bash
+        cp .env.example .env
+    ```
+
 1. Instale as dependências com o comando `npm install`.
 
 2. Execute a aplicação com o comando `npm run dev`.
