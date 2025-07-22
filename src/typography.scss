@@ -1,0 +1,28 @@
+@mixin title {
+  font-size: 24px;
+  font-weight: 600;
+  color: var(--primary-text);
+  margin: 0;
+}
+
+@mixin caption {
+  font-size: 16px;
+  font-weight: 400;
+  color: var(--secondary);
+  margin: 0;
+}
+
+@mixin label {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--primary-text);
+  margin-bottom: 4px;
+}
+
+@mixin required-indicator {
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--secondary);
+  line-height: 22px;
+  vertical-align: bottom;
+}

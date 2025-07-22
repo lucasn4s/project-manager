@@ -1,0 +1,8 @@
+:root {
+  --primary: #695CCD;
+  --primary-hover: #6638B5;
+  --primary-text: #1F1283;
+  --error-text: #9F0000;
+  --error: #C40000;
+  --secondary: #717171;
+}
